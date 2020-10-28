@@ -5,7 +5,7 @@ if (c == true) {
 } else {
     alert('Why?!!');
 }
-var c = confirm("Bro " + n + " Mau Tahu Resep Kami ?");
+var c = confirm( n + " Mau Tahu Resep Kami ?");
 if (c == true) {
     alert('Good');
 } else {
