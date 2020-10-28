@@ -1,4 +1,6 @@
- /* Add CSS for <input> and <textarea> tags */
+<!DOCTYPE style>
+<style>
+    /* Add CSS for <input> and <textarea> tags */
     
     input,
     textarea {
